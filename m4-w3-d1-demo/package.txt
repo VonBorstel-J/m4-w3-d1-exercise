@@ -4,7 +4,7 @@
   "description": "React TDD",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
   },
   "license": "ISC",
   "jest": {
