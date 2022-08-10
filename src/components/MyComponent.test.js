@@ -5,7 +5,7 @@ import { it } from 'node:test';
 
 describe("MyComponent", () => {
   it("should render correctly", () => {
-    const wrapper = shallow(<MyComponent />);
+    const component = shallow(<MyComponent />);
   });
   it("should render initial layout", () => { 
     //when
